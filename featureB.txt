@@ -1,1 +1,1 @@
-Update feature B
+Finished feature B
