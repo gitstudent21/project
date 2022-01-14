@@ -1,1 +1,1 @@
-New feature B
+Update feature B
